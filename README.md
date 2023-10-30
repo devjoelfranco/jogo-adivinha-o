@@ -15,7 +15,7 @@
 
 - Em "RANKING" o jogador verá o recorde de todos os que já jogaram e venceram o jogo da adivinhação e a sua posição no jogo.
 
-- O jogador só terá até 15 tentativas para vencer o jogo.
+- O jogador só terá até 20 tentativas para vencer o jogo.
 
 - O jogador que perder não irá entrar no ranking.
 
